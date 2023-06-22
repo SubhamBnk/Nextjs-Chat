@@ -17,7 +17,7 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 ## 🛠 Installation and Setup Instructions
 
-1. Installation: `npm install` and npm install firebase to install all necessary configurations
+1. Installation: `npm install` and `npm install firebase` to install all necessary configurations
 
 2. In the project directory, you can run: `npm run dev`
 
