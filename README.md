@@ -7,5 +7,5 @@ A Chat App To Interact With Your Friends.
 A Fullstack Webapp Created Using Next JS, Firebase, TailwindCSS.
 
 ## Project image
-public/Screenshot 2023-06-22 140730.png
+https://github.com/SubhamBnk/Nextjs-Chat/blob/main/public/Screenshot%202023-06-22%20140730.png
 
