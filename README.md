@@ -8,5 +8,5 @@ A Fullstack Webapp Created Using Next JS, Firebase, TailwindCSS.
 
 ## Project image
 <div align="center">
-  <img alt="Demo" src="./Extra/sc.png" />
+  <img alt="Demo" src="public/Screenshot 2023-06-22 140730.png" />
 </div>
